@@ -11,5 +11,5 @@ Para ejecutar el Proyecto:
 * **Kevin Marin** - *Desarrollador* - [kvinstuard](https://github.com/kvinstuard)
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT licence ver [LICENSE.md](LICENSE.md) para más detalles. 
-Las páginas web usadas fueron tomadas en base al curso de [freeCodeCamp](https://www.freecodecamp.org/)
+- Este proyecto está bajo la Licencia MIT licence ver [LICENSE.md](LICENSE.md) para más detalles. 
+- Las páginas web usadas fueron tomadas en base al curso de [freeCodeCamp](https://www.freecodecamp.org/)

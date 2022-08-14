@@ -9,7 +9,7 @@ Cabe acalar que iphost es el ip de la maquina donde correrá el proyecto.
 
 ## Autores
 * **Víctor Sapuyes** - *Desarrollador* - [victor262108](https://github.com/victor262108)
-* **Kevin Marin** - *Desarrollador* - [gitname](https://github.com/)
+* **Kevin Marin** - *Desarrollador* - [kvinstuard](https://github.com/kvinstuard)
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT licence ver [LICENSE.md](LICENSE.md) para más detalles. 
